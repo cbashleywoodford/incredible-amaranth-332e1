@@ -67,6 +67,8 @@ sections:
           *   CSS3/SCSS
 
           *   JS/TS
+
+          *   Responsive Design
         actions: []
         image: /images/Free courses.png
         image_alt: Feature 1 illustration

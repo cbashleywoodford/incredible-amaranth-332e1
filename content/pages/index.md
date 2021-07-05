@@ -13,7 +13,7 @@ sections:
         url: '#contact-me'
         style: primary
     image: /images/important-moon.png
-    image_alt: A smiling woman
+    image_alt: Ashley Woodford
     media_position: right
     media_width: fifty
     align: left

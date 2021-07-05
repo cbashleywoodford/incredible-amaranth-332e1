@@ -111,7 +111,7 @@ sections:
         actions: []
         image: /images/2 People collaborating.png
         image_alt: Feature 2 illustration
-        media_position: left
+        media_position: right
         media_width: sixty
       - content: |
           *   Photoshop

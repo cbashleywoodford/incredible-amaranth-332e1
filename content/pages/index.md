@@ -74,10 +74,18 @@ sections:
         media_width: sixty
       - title: Front-end Frameworks
         subtitle: From bleeding edge to house hold names
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: |
+          *   VueJS
+
+          *   React
+
+          *   Angular
+
+          *   Svelte
+
+          *   NuxtJS
+
+          *   NextJS
         actions: []
         image: images/feature-2.svg
         image_alt: Feature 2 illustration

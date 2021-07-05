@@ -72,7 +72,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-        subtitle: d
+        subtitle: of my skillset
       - title: Frameworks
         subtitle: From bleeding edge to house hold names
         content: |

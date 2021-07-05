@@ -68,7 +68,7 @@ sections:
 
           *   JS/TS
         actions: []
-        image: images/feature-1.svg
+        image: /images/Free courses.png
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty

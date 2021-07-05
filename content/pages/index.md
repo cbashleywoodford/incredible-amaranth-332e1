@@ -94,6 +94,25 @@ sections:
         image_alt: Feature 2 illustration
         media_position: left
         media_width: sixty
+    - title: Frameworks
+        subtitle: From bleeding edge to household names
+        content: |
+          *   VueJS
+
+          *   React
+
+          *   Angular
+
+          *   Svelte
+
+          *   NuxtJS
+
+          *   NextJS
+        actions: []
+        image: /images/2 People collaborating.png
+        image_alt: Feature 2 illustration
+        media_position: left
+        media_width: sixty
       - content: |
           *   Photoshop
 

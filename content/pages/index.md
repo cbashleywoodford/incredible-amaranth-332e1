@@ -90,7 +90,7 @@ sections:
         actions: []
         image: /images/2 People collaborating.png
         image_alt: Feature 2 illustration
-        media_position: right
+        media_position: left
         media_width: sixty
       - title: Technical Content
         subtitle: 'Your products and services, at scale.'

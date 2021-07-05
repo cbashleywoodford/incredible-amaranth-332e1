@@ -144,6 +144,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
+    section_id: contact-me
 seo:
   title: Ashley Woodford | Front-End Developer
   description: 'Front-end developer based in Bournemouth, Dorset.'

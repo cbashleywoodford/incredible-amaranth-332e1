@@ -104,7 +104,6 @@ sections:
         media_position: right
         media_width: sixty
         title: Additional skills
-        subtitle: Not my str
     feature_padding_vert: large
     align: center
     background_color: none

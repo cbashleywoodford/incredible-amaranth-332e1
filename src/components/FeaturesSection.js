@@ -24,9 +24,6 @@ export default class FeaturesSection extends React.Component {
         const isHorizontal = hasText && hasMedia && (mediaPosition === 'left' || mediaPosition === 'right');
 
         return (
-            <>
-            <div id="contact-me"></div>
-
             <div
                 key={index}
                 className={classNames('feature', {

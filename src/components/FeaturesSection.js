@@ -25,6 +25,7 @@ export default class FeaturesSection extends React.Component {
 
         return (
             <>
+            <div id="contact-me"></div>
             <div
                 key={index}
                 className={classNames('feature', {

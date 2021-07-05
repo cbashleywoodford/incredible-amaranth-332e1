@@ -22,7 +22,7 @@ export default class FeaturesSection extends React.Component {
         const hasText = title || subtitle || content || !_.isEmpty(actions);
         const hasMedia = image || videoEmbed;
         const isHorizontal = hasText && hasMedia && (mediaPosition === 'left' || mediaPosition === 'right');
-        
+        const 
 
         return (
             <div

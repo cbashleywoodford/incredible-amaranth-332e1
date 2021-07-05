@@ -109,7 +109,7 @@ sections:
 
           *   Yarn
         actions: []
-        image: /images/2 People collaborating.png
+        image: /images/Server.png
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty

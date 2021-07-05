@@ -208,7 +208,7 @@ sections:
     background_image_opacity: 8
 seo:
   title: Ashley Woodford | Front-End Developer
-  description: The preview of the Personal theme
+  description: 'Front-end developer based in Bournemouth, Dorset.'
   extra:
     - name: 'og:type'
       value: website

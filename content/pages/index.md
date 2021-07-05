@@ -95,7 +95,7 @@ sections:
         media_position: left
         media_width: sixty
       - title: Buildtools
-        subtitle: From bleeding edge to household names
+        subtitle: 'Bundlers, pipelines, CI/CD'
         content: |
           *   VueJS
 

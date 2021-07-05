@@ -124,7 +124,7 @@ sections:
         actions: []
         image: /images/CV selection.png
         image_alt: Feature 3 illustration
-        media_position: right
+        media_position: left
         media_width: sixty
         title: Additional skills
     feature_padding_vert: large

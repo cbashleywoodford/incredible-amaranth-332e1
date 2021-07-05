@@ -94,10 +94,14 @@ sections:
         image_alt: Feature 2 illustration
         media_position: left
         media_width: sixty
-      - content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+      - content: |
+          *   Photoshop
+
+          *   Illustrator
+
+          *   XD
+
+          *   Figma
         actions: []
         image: /images/CV selection.png
         image_alt: Feature 3 illustration

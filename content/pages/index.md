@@ -60,7 +60,7 @@ sections:
     title: My skills
     subtitle: What I do
     features:
-      - title: The fundamentals
+      - title: The Fundamentals
         content: |
           *   HTML5
 

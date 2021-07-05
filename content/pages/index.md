@@ -97,17 +97,17 @@ sections:
       - title: Buildtools
         subtitle: 'Bundlers, pipelines, CI/CD'
         content: |
-          *   VueJS
+          *   Netlify
 
-          *   React
+          *   Webpack
 
-          *   Angular
+          *   NPM
 
-          *   Svelte
+          *   Gulp
 
-          *   NuxtJS
+          *   Parcel
 
-          *   NextJS
+          *   Yarn
         actions: []
         image: /images/2 People collaborating.png
         image_alt: Feature 2 illustration

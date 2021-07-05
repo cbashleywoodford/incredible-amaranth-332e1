@@ -76,7 +76,7 @@ sections:
         media_width: sixty
         subtitle: of my skillset
       - title: Frameworks
-        subtitle: From bleeding edge to house hold names
+        subtitle: From bleeding edge to household names
         content: |
           *   VueJS
 

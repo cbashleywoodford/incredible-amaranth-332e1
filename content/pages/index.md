@@ -207,7 +207,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
 seo:
-  title: Stackbit Personal Theme
+  title: Ashley Woodford | Front-End Developer
   description: The preview of the Personal theme
   extra:
     - name: 'og:type'

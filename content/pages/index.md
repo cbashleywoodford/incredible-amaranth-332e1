@@ -94,8 +94,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: left
         media_width: sixty
-      - subtitle: 'Your products and services, at scale.'
-        content: >-
+      - content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
           documentation, pamphlets, manuals and technical documents.

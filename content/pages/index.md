@@ -10,7 +10,7 @@ sections:
       create functional, creative and engaging web solutions.
     actions:
       - label: Contact Me
-        url: /contact
+        url: '#contact-me'
         style: primary
     image: /images/important-moon.png
     image_alt: A smiling woman

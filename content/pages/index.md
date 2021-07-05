@@ -7,7 +7,7 @@ sections:
       I'm a bright, talented, ambitious and self-motivated web designer with a
       strong technical background who possesses self-discipline and the ability
       to work with the minimum of supervision. A good team player who thrives to
-      create functional, creative and engaging web solutions. 
+      create functional, creative and engaging web solutions.
     actions:
       - label: Contact Me
         url: /contact

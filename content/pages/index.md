@@ -94,7 +94,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: left
         media_width: sixty
-        - title: Buildtools
+      - title: Buildtools
         subtitle: From bleeding edge to household names
         content: |
           *   VueJS

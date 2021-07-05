@@ -24,7 +24,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-    has_border: true
+    has_border: false
   - type: features_section
     title: My skills
     subtitle: What I do

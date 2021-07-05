@@ -61,7 +61,6 @@ sections:
     subtitle: What I do
     features:
       - title: Fundamentals
-        subtitle: 'Website, blog, social media and more.'
         content: |
           *   HTML5
 

@@ -6,25 +6,6 @@
     "palette": "gray",
     "mode": "light",
     "base_font": "serif",
-    "header": {
-        "title": "Portfolio",
-        "logo": "/images/melodic-sunflower.svg",
-        "logo_alt": "Personal logo",
-        "has_primary_nav": true,
-        "primary_nav_links": [
-            {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Contact me",
-                "url": "/contact",
-                "style": "link"
-            }
-        ],
-        "has_secondary_nav": false
-    },
     "footer": {
         "logo": "images/logo.svg",
         "logo_alt": "Personal logo",
